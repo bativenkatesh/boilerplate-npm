@@ -1,7 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Venkatesh Bati",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^5.1.0",
+		"fcc-learn-npm-package-json": "file:"
 	},
 	"main": "server.js",
 	"scripts": {
